@@ -1,0 +1,18 @@
+{
+  "tenantId": "mp",
+  "moduleName": "PropertyTax",
+  "UsageCategory": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "NonResidential",
+      "code": "NONRESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    }
+  ]
+}
