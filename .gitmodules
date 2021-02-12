@@ -1,3 +1,7 @@
 [submodule "subrepo"]
 	path = subrepo
 	url = https://github.com/GhanshyamRawat92/subrepo.git
+[submodule "subrepo_main"]
+	path = subrepo_main
+	url = https://github.com/GhanshyamRawat92/subrepo.git
+	branch = main
